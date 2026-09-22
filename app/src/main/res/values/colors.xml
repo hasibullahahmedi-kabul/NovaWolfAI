@@ -1,0 +1,8 @@
+<resources>
+    <color name="wolf_black">#080A0F</color>
+    <color name="wolf_dark">#10131A</color>
+    <color name="wolf_card">#171B23</color>
+    <color name="wolf_white">#F5F7FA</color>
+    <color name="wolf_gray">#8D95A5</color>
+    <color name="wolf_blue">#4D8DFF</color>
+</resources>
